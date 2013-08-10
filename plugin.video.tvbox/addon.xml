@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.tvbox"
-       name="TV Box"
+<addon id="plugin.video.johnnysmith"
+       name="johnny smith"
        version="1.0.6"
-       provider-name="Christof Torres">
+       provider-name="Johnny Smith">
     <requires>
         <import addon="xbmc.python" version="1.0"/>
         <import addon="script.module.simplejson"/>
