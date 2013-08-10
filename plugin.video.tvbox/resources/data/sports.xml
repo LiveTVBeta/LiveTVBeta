@@ -24,27 +24,27 @@
 <channel
         name="SKY SPORTS 1"
         url="rtmp://178.18.23.113/tivi/ playpath=sky1"
-        epg="http://www.bleb.org/tv/data/listings/0/sky_sports1.xml">
+        epg="">
     </channel>
 
 
 <channel
         name="SKY SPORTS 2"
         url="rtmp://178.18.23.113/tivi/ playpath=sky2"
-        epg="http://www.bleb.org/tv/data/listings/0/sky_sports2.xml">
+        epg="">
     </channel>
     
 <channel
         name="SKY SPORTS 3"
         url="rtmp://178.18.23.113/tivi/ playpath=sky3"
-        epg="http://www.bleb.org/tv/data/listings/0/sky_sports3.xml">
+        epg="">
     </channel>
 
 
 <channel
         name="SKY SPORTS f1"
         url="rtmp://178.18.23.113/tivi/ playpath=skyf1"
-        epg="http://www.bleb.org/tv/data/listings/0/sky_sportsf1.xml">
+        epg="">
     </channel>
 
 
@@ -58,7 +58,7 @@
     <channel
         name="SKYSPORTS 1"
         url="http://91.109.20.49/hls/14.m3u8"
-        epg="http://www.bleb.org/tv/data/listings/0/sky_sports1.xml">
+        epg="">
     </channel>
    
   
