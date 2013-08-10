@@ -9,11 +9,6 @@
         epg="">
     </channel>
 
- <channel
-        name="JSC+1"
-        url="http://client-158-219.speedy-net.bg:9091/udp/239.1.2.11:4000"
-        epg="">
-    </channel>
 
     <channel
         name="SKYSPORTS 1"
