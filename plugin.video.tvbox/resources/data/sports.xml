@@ -3,13 +3,6 @@
 <channels>
 
 
- <channel
-        name="Fox Sports Plus HD"
-        url="http://imgWNAS0WNAS5WNASyz4.m1wscdn-h.kukuplay.com/ts/380789_1361122229384_1375925682071/playlist.m3u8"
-        epg="">
-    </channel>
-
-
     <channel
         name="SKYSPORTS 1"
         url="http://91.109.20.49/hls/14.m3u8"
