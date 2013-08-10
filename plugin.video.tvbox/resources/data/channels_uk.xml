@@ -32,13 +32,13 @@
         epg="http://i.teleboy.ch/programm/station.php?station_id=195">
     </channel>
     <channel
-        name="FRANCE24 ENGLISH"
+        name="FRANCE24 ENGLISHhhh"
         url="http://media10.lsops.net/live/france24_en.smil/playlist.m3u8"
         epg="http://i.teleboy.ch/programm/station.php?station_id=149">
     </channel>
    
     <channel
-        name="SKY SPORTS 1"
+        name="SKYSPORTS 1"
         url="http://91.109.20.49/hls/14.m3u8"
         epg="http://www.bleb.org/tv/data/listings/0/sky_sports1.xml">
     </channel>
