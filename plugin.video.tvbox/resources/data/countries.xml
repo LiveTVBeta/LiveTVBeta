@@ -45,6 +45,13 @@
         name="UNITED STATES OF AMERICA"
         xml="https://raw.github.com/LiveTVBeta/LiveTVBeta/master/plugin.video.tvbox/resources/data/channels_us.xml"
         timestamp="21/07/2013 00:17:00">
+        
+     <country
+        name="SPORTS"
+        xml="https://raw.github.com/LiveTVBeta/LiveTVBeta/master/plugin.video.tvbox/resources/data/sports.xml"
+        timestamp="21/07/2013 00:17:00">    
+        
+        
     </country>
 </countries>
 </data>
