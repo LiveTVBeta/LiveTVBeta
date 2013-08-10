@@ -10,38 +10,38 @@
 
 <channel
         name="BBC 2 HD"
-        url="rtmp://108.59.14.225:1935/live/_definst_ playpath=XtAGpDSzOW7c19O swfUrl=http://www.streamiton.tv/player/player.swf pageUrl=http://www.yycast.com/embed.php?fileid=XtAGpDSzOW7c19O&vw=640&vh=360"
+        url=""
         epg="http://i.teleboy.ch/programm/station.php?station_id=199">
     </channel>
 
 <channel
         name="ITV 1 HD"
-        url="rtmp://108.59.14.225:1935/live/_definst_ playpath=XtAGpDSzOW7c19O swfUrl=http://www.streamiton.tv/player/player.swf pageUrl=http://www.yycast.com/embed.php?fileid=XtAGpDSzOW7c19O&vw=640&vh=360"
+        url=""
         epg="http://i.teleboy.ch/programm/station.php?station_id=254">
     </channel>
 
 <channel
         name="ITV 2 HD"
-        url="rtmp://s6.webport.tv/live/ playpath=z020102.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd"
+        url=""
         epg="http://i.teleboy.ch/programm/station.php?station_id=255">
     </channel>
 
 <channel
         name="ITV 3 HD"
-        url="rtmp://s6.webport.tv/live/ playpath=z020103.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd"
+        url=""
         epg="http://i.teleboy.ch/programm/station.php?station_id=254">
     </channel>
 
 
 <channel
         name="DISNEY XD HD"
-        url="rtmp://s6.webport.tv/live/ playpath=z020101.stream"
+        url=""
         epg="http://i.teleboy.ch/programm/station.php?station_id=249">
     </channel>
 
 <channel
         name="MTV LIVE HD"
-        url="rtmp://94.102.56.186/histream/televisamtv playpath=televisamtv swfurl=http://www.histream.tv/player.swf live=1"
+        url="rtmp://94.102.56.186/histream/televisamtv playpath=televisamtv"
         epg="http://i.teleboy.ch/programm/station.php?station_id=134">
     </channel>
 
